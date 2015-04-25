@@ -16,4 +16,6 @@ underscorestring:underscore.string
 fastclick
 meteorhacks:fast-render
 raix:handlebar-helpers
+sacha:spin
 mike:mocha
+less

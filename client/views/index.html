@@ -1,0 +1,15 @@
+<head>
+<title>Hello Meteor</title>
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+</head>
+
+<template name="layout">
+  <div class="container">
+    <div class="content">
+      {{> yield }}
+    </div>
+  </div>
+
+  <!-- Whole page overlay -->
+  <div id="overlay"></div>
+</template>
